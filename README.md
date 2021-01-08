@@ -10,3 +10,6 @@ I’m currently working on the strategy game [Conquer](https://github.com/JCWasm
 3. Linux
 4. FLOSS
 
+#### Non-technical things I like
+1. The Lord of the Rings
+2. The Silmarillion
