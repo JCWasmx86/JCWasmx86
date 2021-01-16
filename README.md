@@ -13,3 +13,8 @@ I’m currently working on the strategy game [Conquer](https://github.com/JCWasm
 #### Non-technical things I like
 1. The Lord of the Rings
 2. The Silmarillion
+
+
+
+
+![](https://komarev.com/ghpvc/?username=JCWasmx86&color=green)
