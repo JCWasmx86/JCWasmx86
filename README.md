@@ -3,7 +3,7 @@
 #### About me
 I'm a student from somewhere in europe.
 
-I primarily work on tooling around vala, like [vapigen](https://github.com/JCWasmx86/valabindgen), a VAPI-Generator using libclang or sometimes I contribute to the vala-language-server.
+I primarily work on tooling around vala, like [vapibindgen](https://github.com/JCWasmx86/valabindgen), a VAPI-Generator using libclang or sometimes I contribute to the vala-language-server.
 
 Another area of interest of mine is the Language Server Protocol.
 
