@@ -3,20 +3,21 @@
 #### About me
 I'm a student from somewhere in europe.
 
-I primarily work on tooling around vala, like [vapibindgen](https://github.com/JCWasmx86/valabindgen), a VAPI-Generator using libclang or sometimes I contribute to the vala-language-server.
+I primarily work on tooling with C and Vala.
 
 Another area of interest of mine is the Language Server Protocol.
 
 
-#### Technologies/Ecosystems I like
+#### Favorite Technologies/Ecosystems
 1. Vala
 2. C
 3. Linux
 4. GNOME
 
-#### Non-technical things I like
-1. The Lord of the Rings
-2. The Silmarillion
+#### Technologies/Ecosystems I would like to engage with at some point
+1. Haskell
+2. Lowlevel kernel stuff
+
 
 # My guidelines
 
