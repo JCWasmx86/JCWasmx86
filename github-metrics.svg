@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1207" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1184" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 1 user
+                            Followed by 2 users
                         </div>
                     </section>
                     <section>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1960 Commits
+                            1899 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 0 user
+                            Following 0 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    255k added, 159k removed
+                                    330k added, 190k removed
                                 </div>
                             </section>
                             <section>
@@ -1366,10 +1366,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    1 follower
+                    2 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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z6mdkbIrGNKa+NL3HtKaeJ5TOyNlVzCkNfGl7z2kNfE8p3ZGyi4/aY8Ejifw9/+s7P7/ia+I52YC6cVvpeyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynK7rn40ntuJvDi/Z+i7J6LL73nZgIv3v8pyu65+NJ7bibw4v2fouyeiy+952YCL97/KcruufjSe24m8OL9n6LsnosvvedmAi/e/ynKDjhB2QEnKDvgBGUHnKDsgBOUHXCCsgNOUHbACcoOOEHZAScoO+AEZQecoOyAE5QdcIKyA05QdsAJyg44QdkBJyg74ARlB5yg7IATlB1wgrIDTlB2wAnKDjhB2QEnKDvgBGUHnKDsgBOUHXCCsgNOUHbACcoOOEHZAScoO+AEZQecoOyAE5QdcIKyA05QdsAJyg44QdkBJyg74ARlB5yg7IATlB1wgrIDTlB2wAnKDjhB2QEnKDvgBGUHnKDsgBOUHXCCsgNOUHbACcoOOEHZAScoO+AEZQecoOyAE5QdcIKyA05QdsAJyg44QdkBJyg74ARlB5yg7IATlB1wgrIDTlB2wAnKDjhB2QEnKDvgBGUHnKDsgBOUHXCCsgNOUHbACcoOOEHZAScoO+AEZQecoOyAE5QdcIKyA05QdsAJyg44QdkBJyg74ARlB5yg7IATlB1wgrIDTlB2wAnKDjhB2QEnKDvgBGUHnKDsgBOUHXCCsgNOUHbA3wX/Detwa6h/PYN3AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                     </section>
                 </div>
@@ -1400,7 +1401,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">JCWasmx86/JCWasmx86.github.io</span>
+                            <span class="blue space">JCWasmx86/GNOME-Builder-Plugins</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -1408,7 +1409,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 2 Oct 2022, 06:34:58
+                            On 1 Oct 2022, 07:48:16
                         </div>
                     </section>
                 </div>
@@ -1418,14 +1419,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update script.js
+                            Disable texlab, as it does not work unexpectedly bad
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">802d95a1</span>
-                            <span class="code">js/script.js</span>
+                            <span class="code">94c4dcb0</span>
+                            <span class="code">meson_options.txt</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
@@ -1433,14 +1434,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -75,7 +75,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">document.querySelector("#results").style.display = "none";<br /></span><span class="token prefix unchanged">·</span><span class="token line">document.getElementById("results").innerHTML = "";<br /></span><span class="token prefix unchanged">·</span><span class="token line">document.querySelector("#button_list").style.visibility = "visible";<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">document.querySelector("#button_list").style.display = "inline";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">document.querySelector("#button_list").style.display = "flex";<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">let t = document.querySelector("#button_list").childNodes;<br /></span><span class="token prefix unchanged">·</span><span class="token line">for(i=0; i&lt;t.length; i++) {<br /></span><span class="token prefix unchanged">·</span><span class="token line">	//t[i].style.visibility = "hidden";</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,5 +18,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">option('plugin_swift_lint', type: 'feature', value: 'enabled')<br /></span><span class="token prefix unchanged">·</span><span class="token line">option('plugin_swift_templates', type: 'feature', value: 'enabled')<br /></span><span class="token prefix unchanged">·</span><span class="token line">option('plugin_sourcekit', type: 'feature', value: 'enabled')<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">option('plugin_texlab', type: 'feature', value: 'enabled')<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">option('plugin_texlab', type: 'feature', value: 'disabled')<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">option('plugin_xmlfmt', type: 'feature', value: 'enabled')</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2022, 17:28:57 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 3 Oct 2022, 18:39:09 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
