@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    177k added, 18.6k removed
+                                    384k added, 197k removed
                                 </div>
                             </section>
                             <section>
@@ -294,7 +294,7 @@
                 </h2>
                 <div class="row organization contributions">
                     <div class="organization contribution  ">
-                        <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="16" height="16" />
+                        <img class="organization avatar" src="data:image/png;base64,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" width="16" height="16" />
                         <span class="name">@matrix-org</span>
                     </div>
                     <div class="organization contribution  ">
@@ -1435,7 +1435,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Oct 2022, 21:33:09 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 17 Oct 2022, 22:27:30 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
