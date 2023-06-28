@@ -5,7 +5,15 @@ I'm a student from somewhere in europe.
 
 I primarily work on tooling with C and Vala.
 
-Another area of interest of mine is the Language Server Protocol.
+Another area of interest of mine is the Language Server Protocol
+
+
+#### Language servers I've written/contributed to
+- Contributed to the [vala-language-server](https://github.com/vala-lang/vala-language-server)
+- Wrote a basic Meson language server called [MesonLSP](https://github.com/JCWasmx86/mesonlsp)
+- Wrote a Meson language server superseding MesonLSP called [Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP)
+- Wrote a basic language server for the GTK CSS flavor ([GTKCssLanguageServer](https://github.com/JCWasmx86/GTKCssLanguageServer))
+- Contribute a few lines of code to the Swift language server ([sourcekit-lsp](https://github.com/apple/sourcekit-lsp))
 
 
 #### Favorite Technologies/Ecosystems
@@ -17,6 +25,7 @@ Another area of interest of mine is the Language Server Protocol.
 #### Technologies/Ecosystems I would like to engage with at some point
 1. Haskell
 2. Lowlevel kernel stuff
+3. Rust
 
 
 # My guidelines
