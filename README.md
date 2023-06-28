@@ -1,7 +1,7 @@
 ### JCWasmx86
 
 #### About me
-I'm a student from somewhere in europe.
+I'm an IT-Security student from somewhere in Europe.
 
 I primarily work on tooling with C and Vala.
 
