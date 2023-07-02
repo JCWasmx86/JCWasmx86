@@ -23,7 +23,7 @@ Another area of interest of mine is the Language Server Protocol
 4. GNOME
 
 #### Technologies/Ecosystems I would like to engage with at some point
-1. Haskell
+1. OpenCL
 2. Lowlevel kernel stuff
 3. Rust
 
