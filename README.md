@@ -14,6 +14,7 @@ Another area of interest of mine is the Language Server Protocol
 - Wrote a Meson language server superseding MesonLSP called [Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP)
 - Wrote a basic language server for the GTK CSS flavor ([GTKCssLanguageServer](https://github.com/JCWasmx86/GTKCssLanguageServer))
 - Contribute a few lines of code to the Swift language server ([sourcekit-lsp](https://github.com/apple/sourcekit-lsp))
+- Wrote a proxy language server between lemminx, vscode-json-languageserver and yaml-language-server ([proxy-ls](https://github.com/JCWasmx86/proxy-ls))
 
 
 #### Favorite Technologies/Ecosystems
