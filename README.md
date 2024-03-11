@@ -10,7 +10,7 @@ Another area of interest of mine is the Language Server Protocol
 
 #### Language servers I've written/contributed to
 - Contributed to the [vala-language-server](https://github.com/vala-lang/vala-language-server)
-- Wrote a basic Meson language server called [MesonLSP](https://github.com/JCWasmx86/mesonlsp)
+- Wrote a basic Meson language server called [MesonLSP](https://github.com/JCWasmx86/mesonlsp_vala)
 - Wrote a Meson language server superseding MesonLSP called [Swift-MesonLSP](https://github.com/JCWasmx86/Swift-MesonLSP)
 - Wrote a basic language server for the GTK CSS flavor ([GTKCssLanguageServer](https://github.com/JCWasmx86/GTKCssLanguageServer))
 - Contribute a few lines of code to the Swift language server ([sourcekit-lsp](https://github.com/apple/sourcekit-lsp))
